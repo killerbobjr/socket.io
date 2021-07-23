@@ -1,6 +1,6 @@
 {
   "name": "socket.io",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "description": "node.js realtime framework server",
   "keywords": [
     "realtime",
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "debug": "2.3.3",
-    "engine.io": "~1.8.4",
+    "engine.io": "git://github.com/killerbobjr/engine.io.git#1.8.6",
     "has-binary": "0.1.7",
     "object-assign": "4.1.0",
     "socket.io-adapter": "0.5.0",
