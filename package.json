@@ -18,14 +18,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/socketio/socket.io"
+    "url": "https://github.com/socketio/socket.io"
   },
   "scripts": {
     "test": "gulp test"
   },
   "dependencies": {
     "debug": "2.3.3",
-    "engine.io": "git://github.com/killerbobjr/engine.io.git#1.8.6",
+    "engine.io": "https://github.com/killerbobjr/engine.io.git#1.8.6",
     "has-binary": "0.1.7",
     "object-assign": "4.1.0",
     "socket.io-adapter": "0.5.0",
